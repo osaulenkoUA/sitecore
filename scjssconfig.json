@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\testcm.dev.local",
+    "apiKey": "2A089C5D-32F2-44C0-8833-D43F69D5D4E6",
+    "deploySecret": "jfcjsd9wd5q6m2rz0ptmuhxuni7flncshumucv1jwc3",
+    "deployUrl": "https://testcm.dev.local/sitecore/api/jss/import",
+    "layoutServiceHost": "https://testcm.dev.local"
+  }
+}
